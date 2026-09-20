@@ -1,4 +1,4 @@
-# Hi, I'm Udit Kashyap 👋
+# Hi, I'm Udit Kumar Mahatha 👋
 
 🚀 **AI-Assisted App Developer | Flutter & Dart | Building useful mobile apps with AI**
 
